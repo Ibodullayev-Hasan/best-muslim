@@ -1,0 +1,9 @@
+{
+  "prayers": [
+    { "id": 1, "title": "Bomdod", "time": "05:12" },
+    { "id": 2, "title": "Peshin", "time": "12:18" },
+    { "id": 3, "title": "Asr", "time": "16:05" },
+    { "id": 4, "title": "Shom", "time": "18:09" },
+    { "id": 5, "title": "Xufton", "time": "19:30" }
+  ]
+}
